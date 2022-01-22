@@ -97,7 +97,7 @@ body {
       width: auto;
       height: auto;
     }
-    
+
 .float-left {
     float: left;
     margin-right: 15px;
@@ -125,11 +125,16 @@ body {
     width: 100%;
     background-color: #353535;;
     color: #d9d9d9;
+}
+p{
+  color:#d9d9d9;
+}
 
-#selfPortrait
+.self
 {
   display: block;
-  height:145px;
+  height:160px;
+  width:120px;
 }
  
 /* Small devices (landscape phones, 576px and up) */

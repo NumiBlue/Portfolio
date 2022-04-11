@@ -1,6 +1,4 @@
 ## Portfolio
 First Portfolio
 Introductory Portfolio for Full-Stack Developer
->About Me
->Preview of Work
->Contact Info
+Click to view the [deployed application](https://github.com/NumiBlue/Portfolio)
